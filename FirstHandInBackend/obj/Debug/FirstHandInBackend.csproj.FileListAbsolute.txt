@@ -1,0 +1,7 @@
+C:\Users\Mille  Emdal\source\repos\FirstHandInBackend\FirstHandInBackend\obj\Debug\FirstHandInBackend.csprojAssemblyReference.cache
+C:\Users\Mille  Emdal\source\repos\FirstHandInBackend\FirstHandInBackend\obj\Debug\FirstHandInBackend.csproj.CoreCompileInputs.cache
+C:\Users\Mille  Emdal\source\repos\FirstHandInBackend\FirstHandInBackend\bin\Debug\FirstHandInBackend.exe.config
+C:\Users\Mille  Emdal\source\repos\FirstHandInBackend\FirstHandInBackend\bin\Debug\FirstHandInBackend.exe
+C:\Users\Mille  Emdal\source\repos\FirstHandInBackend\FirstHandInBackend\bin\Debug\FirstHandInBackend.pdb
+C:\Users\Mille  Emdal\source\repos\FirstHandInBackend\FirstHandInBackend\obj\Debug\FirstHandInBackend.exe
+C:\Users\Mille  Emdal\source\repos\FirstHandInBackend\FirstHandInBackend\obj\Debug\FirstHandInBackend.pdb
